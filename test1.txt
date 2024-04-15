@@ -1,6 +1,1 @@
 print('Hello world')
-print('cos tam development')
-print('development')
-print('kolejna zmiana')
-print('jeszcze jedna zmiana')
-WeeeWooo
